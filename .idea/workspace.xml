@@ -6,7 +6,91 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98d45dd1-d1b1-4936-a2a3-8e0c215d5239" name="Default" comment="" />
+    <list default="true" id="98d45dd1-d1b1-4936-a2a3-8e0c215d5239" name="Default" comment="2基本正常run">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/data/BlankData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/data/ComprehensiveData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/data/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/data/HeaderData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/data/JudgementData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/data/MultiChoiceData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/data/ShortAnswerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/data/SingleChoiceData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/generator/PaperGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/Blank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/Comprehensive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/Judgement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/MultiChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/ScoreSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/ShortAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/model/SingleChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/utils/OutputFormatUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/utils/POIMergeDocUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/hengxin/paper/utils/TemplateOutputUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/data/BlankData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/data/ComprehensiveData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/data/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/data/HeaderData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/data/JudgementData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/data/MultiChoiceData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/data/ShortAnswerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/data/SingleChoiceData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/generator/PaperGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/Blank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/Comprehensive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/Judgement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/MultiChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/ScoreSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/ShortAnswer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/model/SingleChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/utils/OutputFormatUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/utils/POIMergeDocUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paper/utils/TemplateOutputUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/json_lib_2_4_jdk15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaperGenerator-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/blankData_template.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/blankData_template.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/blank_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/blank_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/blank_template.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/blank_template.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/output/output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/output/output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/blank_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/blank_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/header_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/header_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/judgement_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/judgement_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/multiChoice_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/multiChoice_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/scoreSheet_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/scoreSheet_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/singleChoice_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/output/temp/singleChoice_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/poi-test/template/blank_template.docx" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/poi-test/template/blank_template.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tpg/common/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tpg/common/DataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tpg/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tpg/controller/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tpg/dao/AdminManageDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tpg/dao/AdminManageDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tpg/common/DataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tpg/common/DataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tpg/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tpg/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/WEB-INF/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/WEB-INF/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/WEB-INF/classes/tpg/common/DataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/WEB-INF/classes/tpg/common/DataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/WEB-INF/classes/tpg/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/WEB-INF/classes/tpg/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/blankData_template.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/blankData_template.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/blank_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/blank_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/blank_template.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/blank_template.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/blank_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/blank_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/header_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/header_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/judgement_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/judgement_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/multiChoice_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/multiChoice_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/scoreSheet_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/scoreSheet_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/singleChoice_output.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/output/temp/singleChoice_output.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/template/blank_template.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test_paper_generation-0.0.1-SNAPSHOT/poi-test/template/blank_template.docx" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,6 +98,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test_paper_generation$All_in_test_paper_generation.ic" NAME="All in test_paper_generation Coverage Results" MODIFIED="1582252794082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -31,30 +118,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ga/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/resources/config.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/META-INF/MANIFEST.MF">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="PaperGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/cn/hengxin/paper/generator/PaperGenerator.java">
+      <file leaf-file-name="ShortAnswer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/ShortAnswer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
@@ -62,17 +127,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlankData.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/cn/hengxin/paper/data/BlankData.java">
+      <file leaf-file-name="SingleChoice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/SingleChoice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="116">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="e#1519#1535#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Blank.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tpg/domain/Blank.java">
+      <file leaf-file-name="MultiChoice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/MultiChoice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemplateOutputUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/utils/TemplateOutputUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POIMergeDocUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/utils/POIMergeDocUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeneticAlgorithm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ga/GeneticAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputFormatUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/utils/OutputFormatUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="58">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -80,41 +187,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tpg/domain/User.java">
+      <file leaf-file-name="ScoreSheet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/ScoreSheet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="203">
+              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GeneticAlgorithm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ga/GeneticAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2813">
-              <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
-              <folding>
-                <element signature="e#2845#2855#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ga/Question.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuestionDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tpg/dao/QuestionDao.java">
+      <file leaf-file-name="Judgement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/Judgement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -128,23 +214,45 @@
       <find>getAllSubjects</find>
       <find>JSONArray</find>
       <find>2.5</find>
+      <find>el</find>
+      <find>fitness</find>
+      <find>session</find>
+      <find>slf4j</find>
+      <find>2.4</find>
+      <find>\</find>
+      <find>utf-8</find>
     </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Lenovo\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tpg/common/DataBase.java" />
         <option value="$PROJECT_DIR$/src/tpg/common/DataBaseUtil.java" />
         <option value="$PROJECT_DIR$/WebRoot/js/common/login.js" />
         <option value="$PROJECT_DIR$/src/tpg/service/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/make_paper.jsp" />
         <option value="$PROJECT_DIR$/src/tpg/controller/AdminManageServlet.java" />
-        <option value="$PROJECT_DIR$/src/tpg/dao/AdminManageDaoImpl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/ga/GeneticAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/tpg/dao/AdminManageDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/tpg/domain/Blank.java" />
+        <option value="$PROJECT_DIR$/src/tpg/domain/ShortAnswer.java" />
+        <option value="$PROJECT_DIR$/src/tpg/domain/Comprehensive.java" />
+        <option value="$PROJECT_DIR$/src/output/OutputUtil.java" />
+        <option value="$PROJECT_DIR$/src/config.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/cn/hengxin/paper/data/BlankData.java" />
+        <option value="$PROJECT_DIR$/src/tpg/controller/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/tpg/common/DataBase.java" />
+        <option value="$PROJECT_DIR$/src/cn/hengxin/paper/model/MultiChoice.java" />
+        <option value="$PROJECT_DIR$/src/cn/hengxin/paper/utils/POIMergeDocUtils.java" />
       </list>
     </option>
   </component>
@@ -156,26 +264,35 @@
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-82" />
-    <option name="y" value="272" />
-    <option name="width" value="1940" />
-    <option name="height" value="768" />
+    <option name="x" value="200" />
+    <option name="y" value="270" />
+    <option name="width" value="1555" />
+    <option name="height" value="720" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,56 +309,41 @@
               <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
               <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tpg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tpg" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="PaperGenerator-0.0.1.jar" type="ab9368bb:PsiFileNode" />
-            </path>
-            <path>
-              <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="PaperGenerator-0.0.1.jar" type="ab9368bb:PsiFileNode" />
               <item name="paper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
               <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="PaperGenerator-0.0.1.jar" type="ab9368bb:PsiFileNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paper" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
               <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="PaperGenerator-0.0.1.jar" type="ab9368bb:PsiFileNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paper" type="462c0819:PsiDirectoryNode" />
               <item name="generator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
               <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
-              <item name="PaperGenerator-0.0.1.jar" type="ab9368bb:PsiFileNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paper" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paper" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto_test_paper_generator-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ga" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
@@ -250,19 +352,13 @@
             <path>
               <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: commons-codec:commons-codec:1.10" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="test_paper_generation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: commons-lang:commons-lang:2.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: antlr:antlr:2.7.7" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,7 +373,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tpg.domain" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\desktop\java-exam-master\auto_test_paper_generator-master\src" />
       <recent name="D:\desktop\java-exam-master\auto_test_paper_generator-master\WebRoot\WEB-INF\lib" />
     </key>
   </component>
@@ -293,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Unnamed">
+  <component name="RunManager" selected="JUnit.All in test_paper_generation">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ga.Main" />
       <module name="test_paper_generation" />
@@ -305,8 +405,36 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="TestOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="output.TestOutput" />
+      <module name="test_paper_generation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="All in test_paper_generation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_paper_generation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -323,6 +451,9 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="PaperGenerator-0.0.1.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/PaperGenerator-0.0.1.jar" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -346,7 +477,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="C:/Program Files (x86)/Java">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="test_paper_generation:war">
@@ -420,9 +551,15 @@
     <list>
       <item itemvalue="Tomcat Server.Unnamed" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestOutput" />
+      <item itemvalue="JAR Application.PaperGenerator-0.0.1.jar" />
+      <item itemvalue="JUnit.All in test_paper_generation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in test_paper_generation" />
+        <item itemvalue="JAR Application.PaperGenerator-0.0.1.jar" />
+        <item itemvalue="Application.TestOutput" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -450,15 +587,37 @@
       <workItem from="1580442307315" duration="1016000" />
       <workItem from="1580472908977" duration="8755000" />
       <workItem from="1580521702608" duration="2185000" />
-      <workItem from="1580553324573" duration="629000" />
+      <workItem from="1580553324573" duration="2700000" />
+      <workItem from="1580560400881" duration="1249000" />
+      <workItem from="1580607990417" duration="602000" />
+      <workItem from="1580609893540" duration="48000" />
+      <workItem from="1580610886796" duration="1445000" />
+      <workItem from="1580640774885" duration="3253000" />
+      <workItem from="1581260168776" duration="2078000" />
+      <workItem from="1581431678504" duration="1470000" />
+      <workItem from="1581604074012" duration="898000" />
+      <workItem from="1581732918062" duration="3742000" />
+      <workItem from="1581764790776" duration="6091000" />
+      <workItem from="1582092279715" duration="1872000" />
+      <workItem from="1582200854343" duration="4393000" />
+      <workItem from="1582205569358" duration="47000" />
+      <workItem from="1582205742224" duration="6870000" />
+      <workItem from="1582218528996" duration="565000" />
+      <workItem from="1582249979678" duration="2819000" />
+      <workItem from="1582253191341" duration="344000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_test_paper_generation - 2020.02.21 at 10h 39m 55s.xml">
+      <configuration name="All in test_paper_generation" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39146000" />
+    <option name="totallyTimeSpent" value="79003000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="102" width="810" height="511" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -472,25 +631,26 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.13488975" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27885863" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3242542" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15954773" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21744792" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="1.0" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.4085603" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294423" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.15820312" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
@@ -501,199 +661,70 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2基本正常run" />
+    <option name="LAST_COMMIT_MESSAGE" value="2基本正常run" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tpg/domain/QuestionDetails.java">
+    <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/cn/hengxin/paper/generator/PaperGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-523">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="3">
+          <caret line="135" column="36" selection-start-line="135" selection-start-column="36" selection-end-line="135" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/domain/Question.java">
+    <entry file="file://$PROJECT_DIR$/src/tpg/service/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2117">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/domain/QuestionType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-411">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="111">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/output/OutputUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="4118">
+          <caret line="162" column="34" selection-start-line="162" selection-start-column="34" selection-end-line="162" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/cn/hengxin/paper/model/BaseModel.java" />
+    <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/META-INF/MANIFEST.MF" />
+    <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/resources/config.properties" />
     <entry file="file://$PROJECT_DIR$/src/output/TestOutput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/controller/AdminPageChangeServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/controller/UserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2027">
-          <caret line="76" column="48" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/dao/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/domain/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-592">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-605" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/exam_details.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-609" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/history.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/js/client/exam_details.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-982" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/js/client/paper_details.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/service/AdminManageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/service/AdminManageServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/common/DataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-606">
-          <caret line="8" column="63" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/common/DataBaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2248">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/common/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-406">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/common/MD5Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3149#3150#0" expanded="true" />
+            <element signature="e#3164#3165#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/common/VerifyCodeUtils.java">
+    <entry file="file://$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="87">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/controller/CommonServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1537">
-          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/dao/AdminManageDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/dao/AdminManageDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/js/admin/manage_title.js">
+    <entry file="file://$PROJECT_DIR$/WebRoot/password.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/js/admin/date/js/need/laydate.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/make_paper.jsp">
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/js/client/make_paper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        <state relative-caret-position="319">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -704,129 +735,225 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/controller/AdminManageServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-beanutils-1.9.2.jar/org/apache/commons/beanutils/locale/converters/ByteLocaleConverter.class" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3886">
-          <caret line="134" column="3" selection-start-line="134" selection-start-column="3" selection-end-line="134" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ga/PaperMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ga/Population.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ga/Individual.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/desktop.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ga/Paper.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/ComprehensiveData.class" />
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/BlankData.class" />
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        <state relative-caret-position="58">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ga/GeneticAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2813">
-          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
-          <folding>
-            <element signature="e#2845#2855#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ga/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/dao/QuestionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ga/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/cn/hengxin/paper/generator/PaperGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/PaperGenerator-0.0.1.jar!/cn/hengxin/paper/data/BlankData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/domain/Blank.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/SingleChoiceData.class" />
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/ShortAnswerData.class" />
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/ShortAnswerData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tpg/domain/User.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/ComprehensiveData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="87">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/Config.class" />
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/HeaderData.class" />
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/HeaderData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/BlankData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tpg/domain/Exam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/exam_details.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="46" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/history.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/home.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/make_paper.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/client/paper_detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tpg/controller/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3306">
+          <caret line="114" column="37" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tpg/common/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/generator/PaperGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/SingleChoiceData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/BaseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/Blank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/Comprehensive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/Comprehensive.java.bak">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/Header.java.bak">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/Judgement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/SingleChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#1519#1535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/ShortAnswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/ScoreSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/MultiChoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/utils/TemplateOutputUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/utils/OutputFormatUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hengxin/paper/utils/POIMergeDocUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ga/GeneticAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -908,7 +1035,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.cal10n:cal10n-api:0.7.2</last-edited>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

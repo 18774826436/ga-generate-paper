@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DataBase {
 	private String driver = "com.mysql.jdbc.Driver";
-	private String url = "jdbc:mysql://localhost:3306/well_done";
+	private String url = "jdbc:mysql://localhost:3306/well_done?characterEncoding=UTF-8";
 	private String username = "root";
 	private String password = "123456";
 	

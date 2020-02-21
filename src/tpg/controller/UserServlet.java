@@ -42,7 +42,12 @@ public class UserServlet extends BaseServlet{
 		String[] kps = knowledgePoints.split(",");
 		List<Integer> kpList = new ArrayList<Integer>();
 		for(String kp : kps){
-			kpList.add(Integer.parseInt(kp));
+//			if (kp==null)
+//			{
+//				kp="1";
+//			}
+//			kp="1";
+			kpList.add(Integer.parseInt(kp.trim()));
 		}
 		
 		String difficulty = request.getParameter("difficulty");
@@ -105,7 +110,8 @@ public class UserServlet extends BaseServlet{
 		Map<String, String> examInfo = new HashMap<String,String>();
 		String duration = request.getParameter("duration");
 		examInfo.put("duration", duration);
-		String ename = new String(request.getParameter("ename").getBytes("ISO-8859-1"), "UTF-8");
+		//ISO-8859-1
+		String ename = new String(request.getParameter("ename").getBytes("UTF-8"), "UTF-8");
 		examInfo.put("ename", ename);
 		String examMethod = request.getParameter("examMethod");
 		examInfo.put("examMethod", examMethod);

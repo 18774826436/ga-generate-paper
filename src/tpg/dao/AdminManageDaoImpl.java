@@ -15,14 +15,14 @@ import org.apache.poi.hssf.record.DBCellRecord;
 
 import tpg.common.DataBase;
 import tpg.common.DataBaseUtil;
-import tpg.domain.Blank;
-import tpg.domain.Comprehensive;
+//import tpg.domain.Blank;
+//import tpg.domain.Comprehensive;
 import tpg.domain.Judgement;
 import tpg.domain.KnowledgePoint;
 import tpg.domain.MultiChoice;
 import tpg.domain.Question;
 import tpg.domain.QuestionType;
-import tpg.domain.ShortAnswer;
+//import tpg.domain.ShortAnswer;
 import tpg.domain.SingleChoice;
 import tpg.domain.Subject;
 
