@@ -6,6 +6,7 @@
   <head>
     <title>My JSP 'exam_details.jsp' starting page</title>
     <link rel="stylesheet" href="${contextPath}/css/common/bootstrap.min.css" />
+      <link rel="shortcut icon" href="images/common/favicon.ico" type="image/x-icon">
     <script type="text/javascript" src="${contextPath}/js/admin/jquery.js"></script>
     <script type="text/javascript" src="${contextPath}/js/client/exam_details.js"></script>
     <script type="text/javascript" src="${contextPath}/js/admin/layer_v2.1/layer/layer.js"></script>

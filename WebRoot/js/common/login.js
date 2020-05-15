@@ -16,7 +16,6 @@ function login(){
 		url : contextPath + "/common?method=login&date=" + new Date(),
 		data: {username:username, password:password, verify:verify, role:role},
 		success : function(data){
-			alert(data)
 			if(data){
 				if(data=="1"){
 					location.href = contextPath + "/common?method=loginSuccess&date=" + new Date();
@@ -24,10 +23,6 @@ function login(){
 					alert("验证码错误！");
 				}else if(data=="-1"){
 					alert("用户名与密码不匹配！");
-					alert(data)
-					// console.log(data);
-                    // location.href = contextPath + "/common?method=loginSuccess&date=" + new Date();
-
                 }else{
 					alert("登陆失败！");
 				}

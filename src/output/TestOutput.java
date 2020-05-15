@@ -4,18 +4,18 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import cn.hengxin.paper.data.BlankData;
-import cn.hengxin.paper.data.HeaderData;
-import cn.hengxin.paper.data.JudgementData;
-import cn.hengxin.paper.data.MultiChoiceData;
-import cn.hengxin.paper.data.SingleChoiceData;
-import cn.hengxin.paper.generator.PaperGenerator;
-import cn.hengxin.paper.model.BaseModel;
-import cn.hengxin.paper.model.Blank;
-import cn.hengxin.paper.model.Header;
-import cn.hengxin.paper.model.Judgement;
-import cn.hengxin.paper.model.MultiChoice;
-import cn.hengxin.paper.model.SingleChoice;
+import mayu.paper.data.BlankData;
+import mayu.paper.data.HeaderData;
+import mayu.paper.data.JudgementData;
+import mayu.paper.data.MultiChoiceData;
+import mayu.paper.data.SingleChoiceData;
+import mayu.paper.generator.PaperGenerator;
+import mayu.paper.model.BaseModel;
+import mayu.paper.model.Blank;
+import mayu.paper.model.Header;
+import mayu.paper.model.Judgement;
+import mayu.paper.model.MultiChoice;
+import mayu.paper.model.SingleChoice;
 
 public class TestOutput {
 	public static void output(){

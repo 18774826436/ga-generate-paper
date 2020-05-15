@@ -5,6 +5,7 @@
   <head>
     <title>My JSP 'home.jsp' starting page</title>
     <link rel="stylesheet" href="${contextPath}/css/client/client_home.css" />
+      <link rel="shortcut icon" href="images/common/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="${contextPath}/css/common/bootstrap.min.css" />
     <style>
 	     body{    

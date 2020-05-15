@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Set;
 
 import javax.servlet.http.HttpServletResponse;
-//import cn.hengxin.paper.generator.PaperGenerator;
+//import PaperGenerator;
 import ga.Individual;
 import ga.Paper;
 import ga.PaperMaker;

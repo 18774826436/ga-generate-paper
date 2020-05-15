@@ -42,11 +42,6 @@ public class UserServlet extends BaseServlet{
 		String[] kps = knowledgePoints.split(",");
 		List<Integer> kpList = new ArrayList<Integer>();
 		for(String kp : kps){
-//			if (kp==null)
-//			{
-//				kp="1";
-//			}
-//			kp="1";
 			kpList.add(Integer.parseInt(kp.trim()));
 		}
 		

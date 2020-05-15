@@ -10,6 +10,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <head>
     <title>My JSP 'history.jsp' starting page</title>
     <link rel="stylesheet" href="${contextPath}/css/common/bootstrap.min.css" />
+	  <link rel="shortcut icon" href="images/common/favicon.ico" type="image/x-icon">
     
   </head>
   

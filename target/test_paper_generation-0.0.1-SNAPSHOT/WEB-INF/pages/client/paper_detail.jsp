@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="${contextPath}/css/client/client_home.css" />
     <link rel="stylesheet" href="${contextPath}/css/common/bootstrap.min.css" />
     <link rel="stylesheet" href="${contextPath}/js/admin/layer_v2.1/layer/skin/layer.css" />
+	  <link rel="shortcut icon" href="images/common/favicon.ico" type="image/x-icon">
     <script type="text/javascript" src="${contextPath}/js/admin/jquery.js"></script>
     <script type="text/javascript" src="${contextPath}/js/client/paper_details.js"></script>
     <script type="text/javascript" src="${contextPath}/js/admin/layer_v2.1/layer/layer.js"></script>

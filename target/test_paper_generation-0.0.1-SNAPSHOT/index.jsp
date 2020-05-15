@@ -5,8 +5,9 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>WELLDONE组卷系统</title>
+    <title>Java智能组卷系统</title>
     <link rel="stylesheet" type="text/css" href="css/common/login.css">
+	  <link rel="shortcut icon" href="images/common/favicon.ico" type="image/x-icon">
     <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="js/common/login.js"></script>
     <style>

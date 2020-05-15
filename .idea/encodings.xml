@@ -2,10 +2,10 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/cn/hengxin/paper/data/BlankData.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/ScoreSheet.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/cn/hengxin/paper/model/SingleChoice.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/ga/Population.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mayu/paper/data/BlankData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mayu/paper/model/ScoreSheet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mayu/paper/model/SingleChoice.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/tpg/controller/CommonServlet.java" charset="UTF-16" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

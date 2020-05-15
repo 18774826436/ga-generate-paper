@@ -6,6 +6,7 @@
     <title>My JSP 'make_paper.jsp' starting page</title>
     <link rel="stylesheet" href="${contextPath}/css/client/client_home.css" />
      <link rel="stylesheet" href="${contextPath}/css/common/bootstrap.min.css" />
+	  <link rel="shortcut icon" href="images/common/favicon.ico" type="image/x-icon">
   </head>
   
   <body onload="loadSubject()">
